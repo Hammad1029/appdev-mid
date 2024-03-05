@@ -1,1 +1,2 @@
-appdev midterm\n repo pehle se banadi
+appdev midterm
+repo pehle se banadi
